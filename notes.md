@@ -6,3 +6,4 @@
 - **Branches** let you work on new features without affecting the main codebase.
 - **Pull requests** propose merging changes from one branch into another, usually with a review step.
 - Typical local-to-remote workflow: `git clone` -> edit files -> `git add` -> `git commit` -> `git push`.
+Reviewed and tested the local push workflow.
